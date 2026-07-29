@@ -1,0 +1,43 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node
+node_modules/
+
+# OS Temp Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Research Papers, LaTeX, and Documents
+*.pdf
+*.tex
+*.md
+*.jpg
+*.png
+*.docx
+*.txt
+!README.md
+!requirements.txt
+
+# Antigravity artifacts
+.agents/
+.gemini/
