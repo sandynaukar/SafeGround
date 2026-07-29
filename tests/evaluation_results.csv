@@ -1,0 +1,5 @@
+Metric,Dijkstra (Shortest Path),Raw LLM (No Guardrail),SafeGround-LLM (Proposed)
+Safety Verification Rate (%),43.0,43.0,52.0
+Average Path Length (Nodes),4.51,4.51,4.28
+Avg Decision Latency (sec),0.001,0.45,2.8820037841796874e-05
+Guardrail Intervention Rate (%),N/A,N/A,56.99999999999999
